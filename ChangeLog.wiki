@@ -1,0 +1,7 @@
+#summary Changes to the FadE software package.
+
+
+
+= Version 0.0.1 Initial Public Release =
+
+FadE now supports color and nucleotide space. (SOLiD and Illumina/454). 
